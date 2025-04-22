@@ -1,0 +1,9 @@
+style.css
+body {
+    font-family:Arial,sans-serif;
+    background-color:pink;
+    text-align:center;
+}
+header img {
+    width:100px;
+}
